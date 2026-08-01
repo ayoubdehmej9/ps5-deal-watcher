@@ -1,10 +1,42 @@
 {
   "max_price_mad": 4000,
-  "cities": ["وجدة", "بركان", "أحفير", "الناظور", "تاوريرت", "oujda", "berkane", "ahfir", "nador", "taourirt"],
-  "include_words": ["ps5", "playstation 5", "بلايستيشن 5"],
-  "exclude_words": ["manette", "يد تحكم", "controller", "compte", "account", "حساب", "jeu", "game", "لعبة", "location", "كراء", "réparation", "اصلاح"],
+  "cities": [
+    "وجدة",
+    "بركان",
+    "أحفير",
+    "الناظور",
+    "تاوريرت",
+    "oujda",
+    "berkane",
+    "ahfir",
+    "nador",
+    "taourirt"
+  ],
+  "include_words": [
+    "ps5",
+    "playstation 5",
+    "بلايستيشن 5"
+  ],
+  "exclude_words": [
+    "manette",
+    "يد تحكم",
+    "controller",
+    "compte",
+    "account",
+    "حساب",
+    "jeu",
+    "game",
+    "لعبة",
+    "location",
+    "كراء",
+    "réparation",
+    "اصلاح"
+  ],
   "search_urls": [
-    "https://www.avito.ma/fr/maroc/console_et_jeux_vid%C3%A9o-%C3%A0_vendre?keyword=ps5"
+    "https://www.avito.ma/fr/oujda/ps5--%C3%A0_vendre",
+    "https://www.avito.ma/fr/berkane/ps5--%C3%A0_vendre",
+    "https://www.avito.ma/fr/ahfir/ps5--%C3%A0_vendre",
+    "https://www.avito.ma/fr/nador/ps5--%C3%A0_vendre",
+    "https://www.avito.ma/fr/taourirt/ps5--%C3%A0_vendre"
   ]
 }
-
